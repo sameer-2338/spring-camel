@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.org.camel</groupId>
 	<artifactId>camel-mq</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>camel-mq</name>
 	<description>integration of camel framework with kafka</description>
 	<properties>
